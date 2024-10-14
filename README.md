@@ -15,8 +15,19 @@ I’m a Master’s student in Fullstack Development, with a passion for building
 
     
 ## 🔭 I’m currently working on:
-  - **Trackmates**: An educational platform leveraging AI and cognitive science to personalize learning, built with **React**, **Node.js**, **Python Flask**
+  - **[TrackMates](https://github.com/MarieEveille/Trackmates)**: An educational platform leveraging AI and cognitive science to personalize learning, built with **React**, **Node.js**, **Python Flask**
   - **Portfolio** : Built with **Angular**
+
+## 📂 Recent Projects:
+
+- **[Crudite](https://github.com/thomasGarau/Crudite)**:
+  - An e-commerce website comparing front-end frameworks (React JS, Angular, Vue JS) with a **Node.js** backend.
+  - Uses **MySQL** as the database and **Sequelize** as the ORM.
+
+- **[SpaceInvader](https://github.com/MarieEveille/SpaceInvader)**:
+  - A browser-based game inspired by the classic Space Invaders.
+  - Built in TypeScript
+
 
 ## 🌱 I’m currently learning: 
   - Advanced topics in machine learning and reinforcement learning.
