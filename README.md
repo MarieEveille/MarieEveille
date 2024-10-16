@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Marie Eveille!
+# Hi there 👋 I'm Marie Eveillé!
 
 I’m a Master’s student in Fullstack Development, with a passion for building dynamic web applications. Here's a bit more about me:
 
