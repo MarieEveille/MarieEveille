@@ -16,6 +16,7 @@ I’m a Master’s student in Fullstack Development, with a passion for building
     
 ## 🔭 I’m currently working on:
   - **[TrackMates](https://github.com/MarieEveille/Trackmates)**: An educational platform leveraging AI and cognitive science to personalize learning, built with **React**, **Node.js**, **Python Flask**
+  - **[WeatherApp](https://github.com/MarieEveille/WeatherApp)**: An intuitive Android application designed to provide users with real-time weather updates and forecast data. Built using **Android Studio** and **Jetpack Compose**, the app leverages the **Open-Meteo API** to deliver accurate and location-based weather information.
   - **Portfolio** : Built with **Angular**
 
 ## 📂 Recent Projects:
