@@ -6,7 +6,7 @@ I’m a Master’s student in Fullstack Development, with a passion for building
 
 🔹 **Main languages and frameworks**:
 - **Front-end**: React, Angular, HTML5, CSS3, TypeScript
-- **Back-end**: Node.js, Flask, Express, C#, Java
+- **Back-end**: Node.js, Flask, Express, Java
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, Postman, Figma, Cloudinary
 
