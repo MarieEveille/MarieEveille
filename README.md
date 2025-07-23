@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Marie Eveillé!
 
-I’m a Master’s student in Fullstack Development, graduating in August, with a passion for building web applications. Here's a bit more about me:
+I’m a recent Master’s graduate in Fullstack Development, currently seeking a full-time position in web application development. Here's a bit more about me:
 
 ## 🚀 Looking for opportunities:
 
-I am looking for a **fullstack developer** position starting in **August 2025**, ideally working with **Java Spring Boot** or **Node.js** for the backend, and **Angular** or **React** for the frontend.
+I am looking for a **fullstack developer** position starting in **August 2025**, ideally working with **Node.js** or **Java Spring Boot** for the backend, and **Angular** or **React** for the frontend.
 
 ## 💻 Tech Stack:
 
@@ -15,12 +15,12 @@ I am looking for a **fullstack developer** position starting in **August 2025**,
 - **Tools**: Git, Docker, Postman, Figma, Cloudinary
 
 🔸 **Secondary technologies (previously used but less recent)**:
-- **Languages**: PHP (Laravel), Java, Vue.js, C#, C, Android (Kotlin)
+- **Languages**: PHP (Laravel), Java, Spring Boot Vue.js, C#, C, Android (Kotlin)
 
     
 ## 🔭 I’m currently working on:
 
-I am currently working on the development of a FabLab management application for my internship.  
+I am currently working on the development of a FabLab management application for my internship at Thales Alenia Space in Cannes.  
 The project involves direct communication with **PrusaLink API**, user experience improvements, and continuous deployment.  
 I am also writing the technical documentation with **Docusaurus** and conducting user testing to refine the application.  
 We follow an agile methodology.  
